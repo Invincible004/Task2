@@ -20,3 +20,6 @@ echo "The average length of proteins in E. coli MG1655 is $average_length amino 
 
 # Remove the downloaded file
 rm NC_000913.faa.gz
+
+# To run the script
+./task2.sh
